@@ -19,8 +19,7 @@ Welcome to the **Shoe Ecommerce Website** built with **React.js**. This project 
 
 ## Demo
 
-[Insert a link to your live demo or screenshots here]
-
+![Shoeif png](https://github.com/AshutoshDevX/Shoeify/blob/main/src/assets/e-commerce.png)
 ## Technologies Used
 
 - **React.js**: For building the frontend of the application.
