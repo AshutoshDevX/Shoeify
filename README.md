@@ -46,12 +46,11 @@ npm run dev
 
 ## Usage
 Once the app is up and running, users can:
-
--Search for shoes by entering keywords in the search bar.
--Filter products by selecting categories such as sneakers, flats, or heels.
--Filter by price by adjusting the price range slider.
--Select colors to view shoes available in specific colors.
--Browse recommendations from popular brands like Nike, Puma, Adidas, and Vans.
+- Search for shoes by entering keywords in the search bar.
+- Filter products by selecting categories such as sneakers, flats, or heels.
+- Filter by price by adjusting the price range slider.
+- Select colors to view shoes available in specific colors.
+- Browse recommendations from popular brands like Nike, Puma, Adidas, and Vans.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
